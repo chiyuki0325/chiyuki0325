@@ -7,4 +7,4 @@ Hi, I’m Yidaozhan Ya [@是一刀斩哒](https://space.bilibili.com/485832788)
 
 [My blog](https://blog.yidaozhan.gq)  
 
-[QQ](javascript:alert("3526514925")) [Bilibili](https://space.bilibili.com/485832788) [Discord](javascript:alert("YidaozhanYa#8565")) [Telegram](https://t.me/YidaozhanYa)
+[QQ](javascript:alert\("3526514925"\)) [Bilibili](https://space.bilibili.com/485832788) [Discord](javascript:alert("YidaozhanYa#8565")) [Telegram](https://t.me/YidaozhanYa)
