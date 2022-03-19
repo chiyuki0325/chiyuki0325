@@ -1,7 +1,7 @@
 欢迎来到 [@是一刀斩哒](https://space.bilibili.com/485832788) 的 GitHub 主页！
 
 - 🏫 高一学生
-~~- 🐔 菜鸡~~
+- ~~🐔 菜鸡~~
 - 🐧 使用 ArchLinux 作为操作系统
 - 🐍 正在学习 Visual Basic 和 Python
 
