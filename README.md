@@ -5,7 +5,7 @@
 - :put_litter_in_its_place: 2022 年还在写 VB6 的屑
 - :penguin: 是 Arch Linux 教徒
 - :cn: 希望为互联网中文化贡献力量
-- :uk: If you don't speak Chinese, you can call me Yidaozhan or Yidao
+- :thought_balloon: If you don't speak Chinese, you can call me Yidaozhan or Yidao
 
 <!---放一堆资料卡而懒得写资料 这人屑死了--->
 
