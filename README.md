@@ -42,6 +42,6 @@
 <div>
 <details>
   <summary>🗣 聊天室</summary>
-  <a href="https://chat.yidaozhan.ga/room/@YidaozhanYa"><img src="https://chat.yidaozhan.ga/room/@YidaozhanYa/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=聊天室"></a>
+  <a href="https://chat.yidaozhan.ga/room/@YidaozhanYa"><img src="https://chat.yidaozhan.ga/room/@YidaozhanYa/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=%E8%81%8A%E5%A4%A9%E5%AE%A4"></a>
 </details>
 </div>
