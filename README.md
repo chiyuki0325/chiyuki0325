@@ -13,7 +13,7 @@
   
   [![OS:Arch Linux](https://img.shields.io/badge/系统-Arch%20Linux-1793d1?style=flat&logo=archlinux)](https://archlinux.org)
   [![DE:Plasma](https://img.shields.io/badge/桌面-Plasma-54a3d8?style=flat&logo=KDE)](https://kde.org)
-  [![Browser:Firefox](https://img.shields.io/badge/浏览器-Firefox-ff7139?style=flat&logo=firefox)](https://mozilla.org)
+  [![Browser:Chromium](https://img.shields.io/badge/浏览器-Chromium-a1c2fa?style=flat&logo=google-chrome)](https://chromium.org)
   [![Language:Visual Basic](https://img.shields.io/badge/语言-Visual%20Basic-6a80bc?style=flat&logo=visualstudio)](https://visualstudio.microsoft.com/)
   [![Language:PHP](https://img.shields.io/badge/语言-PHP-767bb3?style=flat&logo=php)](https://php.net)
   [![Language:Python](https://img.shields.io/badge/语言-Python-3875a4?style=flat&logo=python)](https://python.org)
