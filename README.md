@@ -2,7 +2,7 @@
 :star2: 日常摸鱼的高一学生
 
 - :octocat: 偶尔在 GitHub 上发点自己做的小东西
-- :put_litter_in_its_place: 2022 年还在写 VB6 的屑
+- :put_litter_in_its_place: 2022 年还在写 Visual Basic 的屑
 - :penguin: 是 Arch Linux 教徒
 - :cn: 希望为互联网中文化贡献力量
 - :thought_balloon: If you don't speak Chinese, you can call me Yidaozhan or Yidao
