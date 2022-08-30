@@ -1,5 +1,5 @@
 
-:star2: 日常摸鱼的高一学生
+:star2: 日常摸鱼的高中学生
 
 - :octocat: 偶尔在 GitHub 上发点自己做的小东西
 - :put_litter_in_its_place: 2022 年还在写 Visual Basic 的屑
