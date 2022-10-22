@@ -36,6 +36,6 @@
 
 <div align="center">
   
-![状态](https://github-readme-stats.vercel.app/api?username=YidaozhanYa&locale=cn&show_icons=true&include_all_commits=true&hide_border=true)![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=YidaozhanYa&layout=compact&hide=html,javascript,typescript&locale=cn&hide_border=true)
+![状态](https://github-readme-stats.vercel.app/api?username=YidaozhanYa&locale=cn&show_icons=true&include_all_commits=true&hide_border=true)![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=YidaozhanYa&layout=compact&locale=cn&hide_border=true)
 
 </div>
