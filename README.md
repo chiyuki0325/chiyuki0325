@@ -11,12 +11,7 @@
 
 ---
 
-<div al语言
-@YidaozhanYa
-提交更改
-Commit summary
-Optional extended description
-ign="center">
+<div align="center">
   
   [![OS:Arch Linux](https://img.shields.io/badge/系统-Arch%20Linux-1793d1?style=flat&logo=archlinux)](https://archlinux.org)
   [![DE:Plasma](https://img.shields.io/badge/桌面-Plasma-54a3d8?style=flat&logo=KDE)](https://kde.org)
