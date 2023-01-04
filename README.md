@@ -1,15 +1,20 @@
+这里是一刀斩，一只想长大的普通高二摸鱼学生
 
-这里是一刀斩，一只想长大的摸鱼高中生
-
-:octocat: 偶尔会在 GitHub 上发点自己做的小东西  
-:put_litter_in_its_place: 2022 年还在写 Visual Basic 的屑  
-:penguin: 是 Arch Linux 教徒  
-:cn: 希望为互联网中文化贡献力量  
-:thought_balloon: If you don't speak Chinese, you can call me Yidaozhan or Yidao
+🐧 是 Arch Linux 用户  
+📄 会写经典 Visual Basic、Python，也会一点 PHP  
+🌐 支持开源和自由软件  
+🔄 对未来的方向还很迷茫 …走一步算一步吧 wwwww  
+💭 If you don't speak Chinese, you can call me Yidaozhan or Yidao  
 
 <!---放一堆资料卡而懒得写资料 这人屑死了--->
 
 ---
+
+<div align="center">
+  
+![状态](https://github-readme-stats.vercel.app/api?username=YidaozhanYa&locale=cn&show_icons=true&include_all_commits=true&hide_border=true)
+
+</div>
 
 <div align="center">
   
@@ -35,8 +40,3 @@
 </div>
 
 
-<div align="center">
-  
-![状态](https://github-readme-stats.vercel.app/api?username=YidaozhanYa&locale=cn&show_icons=true&include_all_commits=true&hide_border=true)![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=YidaozhanYa&layout=compact&locale=cn&hide_border=true)
-
-</div>
