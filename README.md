@@ -1,8 +1,12 @@
-这里是一刀斩，一只想长大的普通高二摸鱼学生
+这里是一刀斩，一只想长大的普通高二摸鱼学生 👋🏼
+
+<img align="right" src="https://imgsrc.baidu.com/forum/pic/item/a8ec8a13632762d0b3fc327be5ec08fa503dc630.png" width="200"/>
+
+# 关于我
 
 🐧 是 Arch Linux 用户  
-📄 会写经典 Visual Basic、Python，也会一点 PHP  
-🌐 支持开源和自由软件  
+📄 会写经典 Visual Basic 和 Python  
+⚛️ 正在学 Vue.js 和 React.js  
 🔄 对未来的方向还很迷茫 …走一步算一步吧 wwwww  
 💭 If you don't speak Chinese, you can call me Yidaozhan or Yidao  
 
@@ -23,7 +27,7 @@
   [![Browser:Firefox](https://img.shields.io/badge/浏览器-Firefox-ff7139?style=flat&logo=firefox)](https://mozilla.org)
   [![Language:Visual Basic](https://img.shields.io/badge/语言-Visual%20Basic-6a80bc?style=flat&logo=visualstudio)](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation)
   [![Language:Python](https://img.shields.io/badge/语言-Python-3875a4?style=flat&logo=python)](https://python.org)
-  [![Language:PHP](https://img.shields.io/badge/语言-PHP-767bb3?style=flat&logo=php)](https://php.net)
+  [![Language:JavaScript](https://img.shields.io/badge/语言-JavaScript-f7df1e?style=flat&logo=javascript)]([https://php.net](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript))
   <!--[![Language:Visual Basic.NET](https://img.shields.io/badge/语言-Visual%20Basic%20.NET-0e7fc8?style=flat&logo=visualstudio)](https://visualstudio.microsoft.com/)-->
   
 </div>
