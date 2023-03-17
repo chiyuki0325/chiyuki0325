@@ -3,7 +3,7 @@ This is YidaozhanYa, an ordinary senior high student who eagers to grow up.
 
 ```typescript
 class YidaozhanYa extends Student {
-  province = Province.Liaoning
+  province = Province.Liaoning;
   status = Status.Busy;
   alias = ["Yidaozhan", "Yidao"];
   languages = ["zh_CN", "en_US"];
