@@ -1,5 +1,5 @@
 ### 👋🏼 Hi there!
-This is YidaozhanYa, an ordinary senior high student who eagers to grow up.
+This is YidaozhanYa, an ordinary senior high student from China who eagers to grow up.
 
 ```typescript
 class YidaozhanYa extends Student {
@@ -29,5 +29,5 @@ class YidaozhanYa extends Student {
 ```
 
 ### ✨ Status
-| [![YidaozhanYa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YidaozhanYa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YidaozhanYa&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![YidaozhanYa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YidaozhanYa&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YidaozhanYa&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
