@@ -11,7 +11,7 @@ class YidaozhanYa extends Student {
   de = Desktop.Plasma;
   browser = Browser.Firefox;
   
-  programmingLanguages: {[name: string]: Level; } = {
+  programmingLanguages: = {
     "Python": Level.Master,
     "Visual Basic (Classic)": Level.Master,
     "JavaScript": Level.Learning,
