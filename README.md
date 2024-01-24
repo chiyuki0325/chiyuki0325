@@ -7,7 +7,7 @@ I've mastered Visual Basic (classic) and Python.
 Currently I am learning JavaScript and also trying to know other programming languages like Rust and Go.
 
 ### ⁉️ About Me
-Check my [homepage](https://yidaozhan.top) and my [blog](https://blog.yidaozhan.top)。(WIP) 
+Check my [homepage](https://chyk.ink) and my [blog](https://blog.chyk.ink)。
 
 ### 📞 Contact Me
 You can reach me on [Telegram](https://t,me/chiyuki_cafe) or [Bilibili](https://space.bilibili.com/485832788).
