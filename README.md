@@ -3,8 +3,7 @@ This is [Kirikaze Chiyuki](https://github.com/chiyuki0325) (斬風 千雪), an o
 I'm trying to change myself and working hard to be a better person.  
 
 ### 🖥️ Programming Languages
-I've mastered Visual Basic (classic) and Python.  
-Currently I am learning JavaScript, Rust and also trying to know other programming languages.
+Currently I am learning Python, Kotlin, JavaScript and Rust, also trying to know other programming languages.
 
 ### ⁉️ About Me
 Check my [homepage](https://chyk.ink) and my [blog](https://blog.chyk.ink)。
