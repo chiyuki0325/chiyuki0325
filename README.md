@@ -1,4 +1,4 @@
-### 👋🏼 Hi there!
+### 👋 Hi there!
 This is [Kirikaze Chiyuki](https://github.com/chiyuki0325) (斬風 千雪), an ordinary student from China who eagers to grow up. Currently I'm studying in the Software College of Northeastern University, China.
 I'm trying to change myself and working hard to be a better person.  
 
